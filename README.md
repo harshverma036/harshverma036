@@ -13,7 +13,7 @@ I Am A Full Stack Web Developer.
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working with MERN Stack;
-- 🚀 I’m currently learning Data Structures and Algorithms;
+- 🚀 I’m currently learning Data Structures and Algorithms & also working with Django;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: harshverma0362@gmail.com;
 
