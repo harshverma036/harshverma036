@@ -135,11 +135,11 @@
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="harshverma036" src="https://github-readme-streak-stats.herokuapp.com/?user=harshverma036&theme=monokai-metallian&hide_border=true"/>
   </a>
-</p>
+</p> -->
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=harshverma036&bg_color=212121&color=4ad9d6&line=4c9e5a&point=f5a8a8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
