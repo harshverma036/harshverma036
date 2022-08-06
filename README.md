@@ -143,7 +143,7 @@
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harshverma036&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=harshverma036&bg_color=212121&color=4ad9d6&line=4c9e5a&point=f5a8a8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=harshverma036&bg_color=0d0c0d&color=d2b6d1&line=db95d6&point=dedede&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
