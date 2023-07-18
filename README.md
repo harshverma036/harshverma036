@@ -143,7 +143,7 @@
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harshverma036&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
-[![Harsh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=harshverma036&bg_color=100f0f&color=d6d6d6&line=a5229c&point=c7c1c1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshverma036&bg_color=000000&color=c454bd&line=c454bd&point=aba0a0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
